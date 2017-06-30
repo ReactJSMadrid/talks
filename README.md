@@ -16,12 +16,12 @@ Una vez abras el [issue](https://github.com/ReactJSMadrid/talks/issues/new) proc
 Gracias por participar en [ReactJSMadrid](https://www.meetup.com/es-ES/ReactJS-Madrid)
 
 --------
-## Próximas charlas previstas
+### Próximas charlas previstas
 
 No tenemos charlas previstas aún  😞  **Anímate y abre una [issue](https://github.com/ReactJSMadrid/talks/issues/new) nueva!**
 
 -------
-## Charlas pasadas
+### Charlas pasadas
 
 
 * **Introducción a GraphQL** - [Mikel García Urbina](https://twitter.com/Gartzia6) - `20 de junio 2017`
