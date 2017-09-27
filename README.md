@@ -17,12 +17,20 @@ Gracias por participar en [ReactJSMadrid](https://www.meetup.com/es-ES/ReactJS-M
 
 --------
 ### Próximas charlas previstas
+* **Como escribir componentes de React altamente reusables** - [Javi Velasco](https://twitter.com/javivelasco) - `4 de octubre 2017`
 
-No tenemos charlas previstas aún  😞  **Anímate y abre una [issue](https://github.com/ReactJSMadrid/talks/issues/new) nueva!**
+React es una herramienta increíble para escribir componentes reusables pero requiere cierto tiempo decidir como se han de aplicar estilos a la hora de realizar un proyecto. Esto supone que existen infinidad de aproximaciones a la hora de estilar los componentes, la mayoría basados en usar CSS dentro del código Javascript, que habitualmente provoca cierto acoplamiento en el código.
+
+Es posible evitar esta dependencia y escribir componentes que no dependan del estilo? Es esta charla veremos cuales son las aproximaciones más interesantes usando librerías de estilos, analizando lo que deberían cubrir para hacer los componentes altamente reusables y adaptables al estilo que le queramos aplicar. Además veremos una técnica usada en la próxima version de React Toolbox que ofrecerá componentes complejos agnósticos del estilo. Veremos componentes realmente complejos como DatePickers y como se pueden reutilizar y alterar el estilo incluso para usarlos en aplicaciones con React Native.
+
+**Anímate y abre una [issue](https://github.com/ReactJSMadrid/talks/issues/new) nueva para proponer una charla!**
 
 -------
 ### Charlas pasadas
 
+* **Side-effects con Redux** - [Nicolás Quiceno](https://twitter.com/nquicenob) - `14 de septiembre 2017`
+
+Dentro del ecosistema de Redux existen varias librerías para gestionar acciones con side-effects, en esta charla abordaremos las más importantes, veremos sus pros, sus contras y cómo testear.
 
 * **Introducción a GraphQL** - [Mikel García Urbina](https://twitter.com/Gartzia6) - `20 de junio 2017`
 
